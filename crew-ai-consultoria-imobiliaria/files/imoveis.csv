@@ -1,0 +1,21 @@
+ID,Endereço,Preço,Quartos,Banheiros,Metragem,Tipo
+1,"Avenida Brasil, 456 - Rio de Janeiro",411910,5,4,105,Studio
+2,"Rua dos Andradas, 303 - Porto Alegre",609465,3,1,216,Cobertura
+3,"Avenida Brasil, 456 - Rio de Janeiro",813147,3,2,294,Sobrado
+4,"Rua dos Andradas, 303 - Porto Alegre",287379,2,1,46,Sobrado
+5,"Avenida Brasil, 456 - Rio de Janeiro",820618,1,2,53,Casa
+6,"Avenida Brasil, 456 - Rio de Janeiro",828593,2,4,266,Apartamento
+7,"Avenida Paulista, 101 - São Paulo",1791514,1,2,215,Apartamento
+8,"Rua XV de Novembro, 789 - Curitiba",1575898,5,2,101,Casa
+9,"Avenida Brasil, 456 - Rio de Janeiro",202262,3,1,48,Sobrado
+10,"Rua XV de Novembro, 789 - Curitiba",620691,1,4,43,Sobrado
+11,"Rua XV de Novembro, 789 - Curitiba",1670949,5,1,284,Sobrado
+12,"Rua dos Andradas, 303 - Porto Alegre",819303,3,4,178,Studio
+13,"Avenida Paulista, 101 - São Paulo",621646,2,1,112,Sobrado
+14,"Rua XV de Novembro, 789 - Curitiba",1810777,4,1,165,Casa
+15,"Avenida Brasil, 456 - Rio de Janeiro",355561,2,3,51,Sobrado
+16,"Rua das Palmeiras, 123 - São Paulo",867834,3,3,77,Studio
+17,"Rua dos Andradas, 303 - Porto Alegre",1208817,5,1,114,Sobrado
+18,"Rua das Palmeiras, 123 - São Paulo",1220376,2,4,228,Cobertura
+19,"Rua XV de Novembro, 789 - Curitiba",541620,3,3,295,Studio
+20,"Rua XV de Novembro, 789 - Curitiba",1088716,3,1,265,Studio
