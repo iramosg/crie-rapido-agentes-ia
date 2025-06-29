@@ -1,54 +1,40 @@
-**Estimativa de Orçamento da Viagem - Brasil: Riquezas Naturais e Culturais**
+**Estimativa de Orçamento para a Viagem pelo Sul do Brasil em 10 Dias**
 
-**Duração:** 14 dias
+1. **Transporte:**
+   - **Voo Brasil - Porto Alegre:** R$ 800,00 (round trip)
+   - **Carro alugado (9 dias):** R$ 1.200,00 (incluindo seguro e combustível)
+   - **Total Transporte:** R$ 2.000,00
 
-**1. Transporte:**
-   - **Transfer Aeroporto de Guarulhos para Hotel em São Paulo:** R$ 150
-   - **Voo São Paulo para Rio de Janeiro:** R$ 300
-   - **Ônibus Rio de Janeiro para Paraty:** R$ 60
-   - **Transfer para o aeroporto de São Paulo e voo para Foz do Iguaçu:** R$ 600 (R$ 150 transfer + R$ 450 voo)
-   - **Voo Foz do Iguaçu para Salvador:** R$ 400
-   - **Ônibus Salvador para Lençóis:** R$ 100
-   - **Ônibus Lençóis para Brasília:** R$ 100
-   - **Transfer para o Aeroporto de Brasília:** R$ 100
+2. **Hospedagem:**
+   - **Porto Alegre (3 noites):** R$ 150,00/noite x 3 = R$ 450,00
+   - **Bento Gonçalves (1 noite):** R$ 200,00
+   - **Gramado (3 noites):** R$ 250,00/noite x 3 = R$ 750,00
+   - **Florianópolis (2 noites):** R$ 200,00/noite x 2 = R$ 400,00
+   - **Blumenau (1 noite):** R$ 200,00
+   - **Joinville (1 noite):** R$ 200,00
+   - **Total Hospedagem:** R$ 2.350,00
 
-   **Subtotal Transporte:** R$ 2.010 
+3. **Alimentação:**
+   - **Café da Manhã:** R$ 20,00/dia x 10 dias = R$ 200,00
+   - **Almoço:** R$ 40,00/dia x 10 dias = R$ 400,00
+   - **Jantar:** R$ 60,00/dia x 10 dias = R$ 600,00
+   - **Total Alimentação:** R$ 1.200,00
 
-**2. Hospedagem:**
-   - **São Paulo (3 noites):** R$ 200/noite x 3 = R$ 600
-   - **Rio de Janeiro (3 noites):** R$ 250/noite x 3 = R$ 750
-   - **Paraty (2 noites):** R$ 200/noite x 2 = R$ 400
-   - **Foz do Iguaçu (2 noites):** R$ 250/noite x 2 = R$ 500
-   - **Salvador (2 noites):** R$ 200/noite x 2 = R$ 400
-   - **Lençóis (2 noites):** R$ 150/noite x 2 = R$ 300
-   - **Brasília (1 noite):** R$ 200/noite x 1 = R$ 200
+4. **Atividades:**
+   - **Porto Alegre:** R$ 150,00 (city tour, ingressos)
+   - **Bento Gonçalves:** R$ 150,00 (degustação de vinhos)
+   - **Gramado e Canela:** R$ 300,00 (mini mundo, ingresso para parque)
+   - **Florianópolis:** R$ 100,00 (projeto Tamar e transporte)
+   - **Blumenau:** R$ 100,00 (Museu da Cerveja)
+   - **Joinville:** R$ 50,00 (Museu de Artes)
+   - **Total Atividades:** R$ 850,00
 
-   **Subtotal Hospedagem:** R$ 3.100 
+5. **Total Geral do Orçamento:**
+   - **Transporte:** R$ 2.000,00
+   - **Hospedagem:** R$ 2.350,00
+   - **Alimentação:** R$ 1.200,00
+   - **Atividades:** R$ 850,00
 
-**3. Alimentação:**
-   - **Café da manhã (incluído na hospedagem):** R$ 0
-   - **Almoço e Jantar:** R$ 50/dia x 14 dias = R$ 700
+**Total da Viagem:** R$ 6.400,00
 
-   **Subtotal Alimentação:** R$ 700 
-
-**4. Atividades:**
-   - **São Paulo:** R$ 100 (passeios e entradas)
-   - **Rio de Janeiro:** R$ 200 (Bondinho + entrada no Cristo + show de samba)
-   - **Paraty:** R$ 200 (Tour de barco e degustação de cachaças)
-   - **Foz do Iguaçu:** R$ 250 (entrada no Parque Nacional + Macuco Safari)
-   - **Salvador:** R$ 150 (tour histórico e show de capoeira)
-   - **Chapada Diamantina:** R$ 150 (trekking e visita à gruta)
-   - **Brasília:** R$ 100 (visitas)
-
-   **Subtotal Atividades:** R$ 1.250 
-
-**5. Total Gerencial:**
-- **Total Transporte:** R$ 2.010
-- **Total Hospedagem:** R$ 3.100
-- **Total Alimentação:** R$ 700
-- **Total Atividades:** R$ 1.250
-
-**Custo Total da Viagem:** R$ 2.010 + R$ 3.100 + R$ 700 + R$ 1.250 = **R$ 7.060**
-
-**Considerações Finais:**
-Essa estimativa é uma previsão de custos para sua viagem de 14 dias pelas riquezas naturais e culturais do Brasil. Para melhor experiência, recomenda-se reserva antecipada de voos, hospedagens e algumas atividades. Lembre-se também de ter uma margem de segurança no orçamento para gastos imprevistos durante a viagem. Boa viagem!
+Este valor total pode variar de acordo com preferências pessoais, atividades adicionais ou mudança de cidades. É sempre recomendável ter uma margem extra no orçamento para imprevistos ou gastos não planejados. A viagem proposta promete um mergulho nas belezas e culturas do sul do Brasil, com uma experiência rica em gastronomia, natureza e história, sendo uma opção incrível para quem busca explorar essa região.
